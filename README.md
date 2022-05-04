@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mfpunjani
-- 👀 I’m interested in coding, datascience and strategic finance
+- 👀 I’m interested in startups, coding, datascience and strategic finance
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on any data driven product idea
 - 📫 You can reach me at farazbinferoz@gmail.com
